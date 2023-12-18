@@ -5,7 +5,8 @@
 * **Stratégies pures**
     - [ ] Stratégie dominante
     - [ ] Stratégie dominée
-    - [ ] Equilibre de NASH
+    - [X] Pareto dominance
+    - [X] Equilibre de NASH
     - [ ] Généralisation
 
 * **Stratégies mixtes**
