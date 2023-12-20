@@ -3,14 +3,14 @@
 
 ### TODO : 
 * **Stratégies pures**
-    - [ ] Stratégie dominante
-    - [ ] Stratégie dominée
+    - [X] Stratégie dominante
+    - [X] Stratégie dominée
     - [X] Pareto dominance
     - [X] Equilibre de NASH
-    - [ ] Généralisation
+    - [X] Généralisation (N player)
 
 * **Stratégies mixtes**
    - [ ] Stratégies dominante
    - [ ] Stratégie dominée
-   - [ ] Equilibre de NASH
+   - [X] Equilibre de NASH
    - [ ] Généralisation 
