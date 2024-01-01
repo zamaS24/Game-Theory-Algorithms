@@ -14,3 +14,7 @@
    - [ ] Stratégie dominée
    - [X] Equilibre de NASH
    - [ ] Généralisation 
+
+
+* **PROJECT**
+  - [ ] Implementing a clustering algorithm based on game theory 2-player pure. 
