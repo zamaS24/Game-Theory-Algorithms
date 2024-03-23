@@ -17,4 +17,4 @@
 
 
 * **PROJECT**
-  - [ ] Implementing a clustering algorithm based on game theory 2-player pure. 
+  - [X] Implementing a clustering algorithm based on game theory 2-player pure. 
